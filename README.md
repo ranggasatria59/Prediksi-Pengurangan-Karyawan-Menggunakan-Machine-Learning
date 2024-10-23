@@ -32,3 +32,10 @@ Model yang dibangun dapat membantu perusahaan dalam memahami faktor-faktor yang 
 Kesimpulan
 Dengan model ini, perusahaan dapat lebih proaktif dalam mengidentifikasi karyawan yang berpotensi mengundurkan diri dan mengambil langkah-langkah untuk mempertahankan mereka melalui peningkatan kepuasan kerja, penyesuaian gaji, atau perubahan pada jam kerja.
 
+
+
+Hasil Grafik
+
+![grafik distribusti turnover](https://github.com/user-attachments/assets/ac7dc104-3e9f-41fd-a2bd-6708ac7f0822)
+![Grafik Perbandingan Gaji dengan Turnover](https://github.com/user-attachments/assets/4a3eba5b-a5d6-4571-b34f-035720e5531a)
+![Grafik Perbandingan Logistic Regression dan Decision Tree](https://github.com/user-attachments/assets/0973025e-9041-4935-bba9-f65abf359619)
